@@ -1,0 +1,53 @@
+
+.hodorimg img {
+	float: right;
+	width: 200px;
+	height: 200px;
+}
+
+.container {
+	margin: 0 auto;
+	width: 1200px;
+}
+
+.container h1 {
+	float: left;
+}
+
+#ChatBig {
+	width: 500px;
+	height: 450px;
+	border: 1px solid #000;
+	margin: 0 auto;
+}
+
+#ChatMessages {
+	width: 500px;
+	height: 400px;
+	font-size: 16px;
+	font-weight: normal;
+}
+
+#ChatText {
+	width: 495px;
+	max-width: 495px;
+	height: 48px;
+	max-height: 48px;
+	border-bottom: 1px solid #333;
+}
+
+#ChatText:focus{outline: none;}
+
+.User-Name {
+	color: #7CB9E8;
+}
+
+.User-Name:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.Chat-Message {
+
+}
+
