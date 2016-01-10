@@ -1,4 +1,4 @@
 Chat-Hodor
 ==========
 
-Chat APP - AJAX - JS - PHP(PDO)
+A chat app using - JS - PHP(PDO)
